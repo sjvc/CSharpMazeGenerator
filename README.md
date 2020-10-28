@@ -1,4 +1,4 @@
-# CSharpMazeGenerator
+# CSharpMazeGenerator (Prim's algorithm)
 Maze generation with Prim's algorithm, using C#
 
 - Call Initialize(numRows, numCols)
